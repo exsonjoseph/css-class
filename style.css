@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+/* @import url('./x.css'); */
+*{
+    font-family:"Inter", sans-serif;
+}
+/* p{
+    color: red;
+}
+
+.black-bg{
+    background-color: black;
+}
+
+#blue-bg{
+    background-color: blue;
+} */
+/* p{
+    color: #52c452;
+} */
+/* .box{
+    width: 20vw;
+    height: 150px; */
+    /* background-color: aquamarine; */
+    /* background-image: url('../2/assets/favicon.ico');
+    background-repeat: no-repeat; */
+/* background: radial-gradient(#ffafcc, #a2d2ff); */
+/* } */
+
+:root{
+    --primary-color: greenyellow;
+}
+.heading-1{
+    color: var(--primary-color);
+}
+.heading-2{
+    color: var(--primary-color);
+}
+.heading-3{
+    color: var(--primary-color);
+}
